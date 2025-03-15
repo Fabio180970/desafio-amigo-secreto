@@ -5,7 +5,11 @@ Amigo secreto en este desafio se desarrollo una aplicación que permita a los us
 
 El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
-Funcionalidades:
+## Funcionalidades
+
+- **Agregar Amigos**: Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en un botón para agregar el nombre a la lista de amigos.
+- **Actualizar Lista**: La lista de amigos se actualiza en tiempo real cada vez que se agrega un nuevo nombre.
+- **Sorteo de Amigo Secreto**: Los usuarios pueden hacer clic en un botón para sortear un amigo secreto de la lista de amigos agregados.
 
 Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
@@ -14,12 +18,6 @@ Validar entrada: Si el campo de texto está vacío, el programa mostrará una al
 Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
 Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
-
-## Funcionalidades
-
-- **Agregar Amigos**: Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en un botón para agregar el nombre a la lista de amigos.
-- **Actualizar Lista**: La lista de amigos se actualiza en tiempo real cada vez que se agrega un nuevo nombre.
-- **Sorteo de Amigo Secreto**: Los usuarios pueden hacer clic en un botón para sortear un amigo secreto de la lista de amigos agregados.
 
 ## Instalación
 
@@ -46,6 +44,8 @@ Si el campo de nombre está vacío, se mostrará un mensaje de alerta pidiendo u
 Capturas de Pantalla
 Captura de pantalla de la aplicación
 
+Recuerda personalizar la sección de "Capturas de Pantalla
+
 ![image](https://github.com/user-attachments/assets/b7618488-ebb4-4acb-b7e3-646b44f7125c)
 ![image](https://github.com/user-attachments/assets/722213c0-935a-488f-a10a-b13d199db5a7)
 ![image](https://github.com/user-attachments/assets/3dcbf782-04be-471c-a2e3-f0395fdea6f9)
@@ -59,4 +59,4 @@ Este proyecto está bajo la Licencia MIT.
 perl
 Copiar código
 
-Recuerda personalizar la sección de "Capturas de Pantalla
+
