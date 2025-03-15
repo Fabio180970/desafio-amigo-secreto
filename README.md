@@ -25,7 +25,8 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/amigo-secreto.git
+   https://github.com/Fabio180970/desafio-amigo-secreto.git
+   
 Navega al directorio del proyecto:
 bash
 Copiar código
